@@ -1,4 +1,4 @@
-### This is a quick reference for testing with docker using GCP 
+### This is a quick reference for testing docker using GCP 
 
 #### (A) Setup VM Instance 
 1. Create Compute Engine Instance (CentOS 8) on [GCP](https://cloud.google.com/compute/docs/instances/create-start-instance)
