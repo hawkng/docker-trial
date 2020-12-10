@@ -50,7 +50,7 @@
      ```
 
    - Install the latest version of Docker Engine and containerd, or go to the next step to install a specific version:
-      `$sudo yum install docker-ce docker-ce-cli containerd.io 
+      `$sudo yum install docker-ce docker-ce-cli containerd.io` 
 
 2. Start Docker Service
    `$sudo systemctl start docker`
