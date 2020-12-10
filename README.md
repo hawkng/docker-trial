@@ -17,7 +17,7 @@
      `sudo yum install nodejs`
      
 3. Create a sample app
-   - Install [express js] (https://expressjs.com/en/starter/installing.html)
+   - Install [express js](https://expressjs.com/en/starter/installing.html)
    ```
    $ mkdir hello-world
    $ cd hello-world
